@@ -13,3 +13,7 @@ else:
   print("Your age is odd")
 
 
+
+print("Joseph".lower());
+print("Joseph".count("o"));
+
